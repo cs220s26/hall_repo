@@ -2,4 +2,7 @@ This is a repo where we can practice keeping track of local and remote
 changes.
 
 * Britan Hall
-\n\nMoravian\n
+
+Moravian
+
+Blue
